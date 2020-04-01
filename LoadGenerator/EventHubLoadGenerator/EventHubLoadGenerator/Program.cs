@@ -12,7 +12,7 @@ namespace EventHubLoadGenerator
     {
 
         private const string connectionString = "<EVENT HUBS NAMESPACE - CONNECTION STRING>";
-        private const string eventHubName = "<EVENT HUB NAME>";
+        private const string eventHubName = "jotaevents";
 
         static async Task Main()
         {
